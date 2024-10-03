@@ -14,9 +14,9 @@ I'm a passionate junior software developer and aspiring web and app developer. I
 
 ### 🚀 My Programming Languages Proficiency
 
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
-![PHP](https://img.shields.io/badge/PHP-65%25-purple)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-90%25-red)
+![JavaScript](https://img.shields.io/badge/JavaScript- 80%25-yellow)
+![PHP](https://img.shields.io/badge/PHP- 50%25-purple)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS- 90%25-red)
 
 ---
 
