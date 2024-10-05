@@ -7,8 +7,8 @@ I'm a passionate junior software developer and aspiring web and app developer. I
 ### 🛠 Skills & Technologies
 - **Languages:** JavaScript, PHP, HTML, CSS
 - **Frameworks:** React, Vue.js, Node.js
-- **Tools & Platforms:** Git, XAMPP, Visual Studio Code, Bootstrap, Mongo DB
-- **Others:** REST APIs, JWT Authentication, SQL/NoSQL Databases
+- **Tools & Platforms:** Git, XAMPP, Visual Studio Code, Bootstrap
+- **Others:** REST APIs, JWT Authentication, SQL/NoSQL Databases, Mongo DB
 
 ---
 
